@@ -1,5 +1,5 @@
 # lua-gen
-## work in progress
+##### work in progress
 A playground for experiments in dungeon generation utilizing principles of Boid flocking for placement of rooms using Lua & LOVE2D.
 
 ## The process
